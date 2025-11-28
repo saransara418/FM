@@ -105,12 +105,14 @@ Output Waveform
 
 Tabulation
 
-![WhatsApp Image 2025-09-27 at 14 11 44_230a1866](https://github.com/user-attachments/assets/2c4d1887-a3fc-4049-a6dd-84fb131d445e)
+![WhatsApp Image 2025-11-28 at 21 06 01_99a49699](https://github.com/user-attachments/assets/3fc426bb-d4c9-4b50-8bdb-ada3069cb32a)
+
 
 
 Calculation
-![WhatsApp Image 2025-09-27 at 14 12 20_cb0249fb](https://github.com/user-attachments/assets/3a0b3a63-f570-4033-a668-ecd57554f501)
 
+
+![WhatsApp Image 2025-11-28 at 21 07 26_aa8cd354](https://github.com/user-attachments/assets/27d18b73-b5fe-4991-8c7c-ad8e222072a4)
 
 
 Frequency Deviation Practical = 2292.3
